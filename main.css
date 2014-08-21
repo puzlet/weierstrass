@@ -1,0 +1,18 @@
+#text {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.left_col {
+	float: left;
+	width: 60%;
+}
+
+.right_col {
+	float: right;
+	width: 38%;
+}
+
+.clear {
+	clear: both;
+}
