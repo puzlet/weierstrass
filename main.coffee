@@ -12,4 +12,5 @@ plot x, w,
         shadowSize: 0
         color: "black"
         lines: lineWidth: 1
+        
     
